@@ -11939,3 +11939,9 @@ body.sidebar-toggled footer.sticky-footer {
 .itera{
   padding-right: 2%;
 }
+.list-group img{
+  width: 3%;
+}
+.form-check{
+  float: right;
+}
